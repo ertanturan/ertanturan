@@ -6,7 +6,7 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ertanturan" alt="ertanturan" /></a> </p>
 
 - 👨‍💻 All of my projects are available at [https://sites.google.com/view/ertanturan/home](https://sites.google.com/view/ertanturan/home)
-- Github Gist's Profile : https://gist.github.com/ertanturan
+- Github Gist's Profile is available at https://gist.github.com/ertanturan
 - 💬 Ask me about **Unity,C#,React,NodeJS,Rider**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1lzPQ1FS2oQFaiWU5AoNZ7d2LAshPUtUy/view?usp=sharing](https://drive.google.com/file/d/1lzPQ1FS2oQFaiWU5AoNZ7d2LAshPUtUy/view?usp=sharing)
