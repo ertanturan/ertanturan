@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://sites.google.com/view/ertanturan/home](https://sites.google.com/view/ertanturan/home)
 
-- 💬 Ask me about **Unity,C#,React,NodeJS**
+- 💬 Ask me about **Unity,C#,React,NodeJS,Rider**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1lzPQ1FS2oQFaiWU5AoNZ7d2LAshPUtUy/view?usp=sharing](https://drive.google.com/file/d/1lzPQ1FS2oQFaiWU5AoNZ7d2LAshPUtUy/view?usp=sharing)
 
