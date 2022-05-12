@@ -21,3 +21,7 @@ Here are some ideas to get you started:
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ertanturan&layout=compact" width="332px" />
 </a>
+
+## Github Gist
+
+https://gist.github.com/ertanturan
