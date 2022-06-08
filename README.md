@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **ertanturan@outlook.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1lzPQ1FS2oQFaiWU5AoNZ7d2LAshPUtUy/view?usp=sharing](https://drive.google.com/file/d/1lzPQ1FS2oQFaiWU5AoNZ7d2LAshPUtUy/view?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1lzPQ1FS2oQFaiWU5AoNZ7d2LAshPUtUy/view?usp=sharing]([https://drive.google.com/file/d/1lzPQ1FS2oQFaiWU5AoNZ7d2LAshPUtUy/view?usp=sharing](https://drive.google.com/drive/folders/10Amg_xsEW2Lijmn5-peTmobgjwL6KXKO))
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
