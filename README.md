@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **ReactJS**
 
-- 👨‍💻 All of my projects are available at [https://sites.google.com/view/ertanturan/home](https://sites.google.com/view/ertanturan/home)
+- 👨‍💻 Some of my projects are available at [https://sites.google.com/view/ertanturan/home](https://sites.google.com/view/ertanturan/home)
 
 - 📝 I regularly write gist codes on [https://gist.github.com/ertanturan](https://gist.github.com/ertanturan)
 
