@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ertanturan&label=Profile%20views&color=0e75b6&style=flat" alt="ertanturan" /> </p>
 
-- 🌱 I’m currently learning **ReactJS**
-
 - 👨‍💻 Some of my projects are available at [https://sites.google.com/view/ertanturan/home](https://sites.google.com/view/ertanturan/home)
 
 - 📝 I occasionally add some gists to [https://gist.github.com/ertanturan](https://gist.github.com/ertanturan)
