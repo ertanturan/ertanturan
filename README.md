@@ -1,5 +1,5 @@
-<h1 align="center">Hello there, I'm Ertan Turan</h1>
-<h3 align="center">Software Engineer/Unity Developer/Game&Simulation Enthusiast</h3>
+<h1 align="center">Hello there, I'm Ertan</h1>
+<h3 align="center">Sr.Software Engineer/Unity Developer/Game&Simulation Enthusiast</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ertanturan&label=Profile%20views&color=0e75b6&style=flat" alt="ertanturan" /> </p>
 
