@@ -7,7 +7,7 @@
 
 - 📝 I occasionally add some gists to [https://gist.github.com/ertanturan](https://gist.github.com/ertanturan)
 
-- 💬 Ask me about **Unity,C#,React,NodeJS**
+- 💬 Ask me about **Unity,C#** (There's a few other guns under my belt like Python and JS(NodeJS and ReactJS) )
 
 - 📫 How to reach me **ertanturan@outlook.com**
 
