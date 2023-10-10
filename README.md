@@ -3,15 +3,15 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ertanturan&label=Profile%20views&color=0e75b6&style=flat" alt="ertanturan" /> </p>
 
-- 👨‍💻 Some of my projects are available at [https://sites.google.com/view/ertanturan/home](https://sites.google.com/view/ertanturan/home)
+-  My portfolio and CV are available at [https://sites.google.com/view/ertanturan/home](https://sites.google.com/view/ertanturan/home)
 
-- 📝 I occasionally add some gists to [https://gist.github.com/ertanturan](https://gist.github.com/ertanturan)
+-  I occasionally add some gists to [https://gist.github.com/ertanturan](https://gist.github.com/ertanturan)
 
-- 💬 Ask me about **Unity,C#** (There's a few other guns under my belt like Python and JS(NodeJS and ReactJS) )
+-  Ask me about **Unity,C#** (There's a few other guns under my belt like Python and JS(NodeJS and ReactJS) )
 
-- 📫 How to reach me **ertanturan@outlook.com**
+-  E-mail me **ertanturan@outlook.com**
 
-- 📄 Know about my experiences [https://drive.google.com/drive/folders/10Amg_xsEW2Lijmn5-peTmobgjwL6KXKO](https://drive.google.com/drive/folders/10Amg_xsEW2Lijmn5-peTmobgjwL6KXKO)
+-  Know about my experiences [https://drive.google.com/drive/folders/10Amg_xsEW2Lijmn5-peTmobgjwL6KXKO](https://drive.google.com/drive/folders/10Amg_xsEW2Lijmn5-peTmobgjwL6KXKO)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
