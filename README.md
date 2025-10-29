@@ -26,7 +26,7 @@
 
 
 
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=ertanturan&" alt="ertanturan" /></p>
+<!-- <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=ertanturan&" alt="ertanturan" /></p>-->
 
 <br><br><br><br><br><br><br><br><br>
 <!-- 
