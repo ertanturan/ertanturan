@@ -18,7 +18,7 @@
 <h3 align="center">Connect with me:</h3>
 <p align="center">
 <a href="https://linkedin.com/in/ertanturan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ertanturan" height="30" width="40" /></a>
-  <a href="https://www.youtube.com/channel/UCoq_cjx01CCL5z2-Lhl7YVQ" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="oq_cjx01ccl5z2-lhl7yvq" height="30" width="40" /></a>
+  <a href="https://www.youtube.com/c/ertanturan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="oq_cjx01ccl5z2-lhl7yvq" height="30" width="40" /></a>
 </p>
 
 
