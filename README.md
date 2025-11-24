@@ -7,7 +7,7 @@
 
 -  I occasionally add some gists to [https://gist.github.com/ertanturan](https://gist.github.com/ertanturan)
 
--  Ask me about **Unity,C#** (There's a few other guns under my belt like Python and JS(NodeJS and ReactJS) )
+-  Ask me about **Unity,C# and JS** (There's a few other guns under my belt like Python and GoLang )
 
 -  E-mail me **ertanturan@outlook.com**
 
