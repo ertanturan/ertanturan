@@ -11,7 +11,7 @@
 
 -  E-mail me **ertanturan@outlook.com**
 
--  Check my CV [https://drive.google.com/drive/folders/10Amg_xsEW2Lijmn5-peTmobgjwL6KXKO](https://drive.google.com/drive/folders/10Amg_xsEW2Lijmn5-peTmobgjwL6KXKO)
+-  Check my CV [here](https://drive.google.com/drive/folders/10Amg_xsEW2Lijmn5-peTmobgjwL6KXKO)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
