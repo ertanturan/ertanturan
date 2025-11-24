@@ -5,8 +5,8 @@
 
 <div align="center"> 
 
-<ul> <p> My portfolio and CV are available at [https://sites.google.com/view/ertanturan/home](https://sites.google.com/view/ertanturan/home)</p>  </ul>
-<ul> <p> I occasionally add some gists to [https://gist.github.com/ertanturan](https://gist.github.com/ertanturan)</p>  </ul>
+<ul> <p> My portfolio and CV are available at [here](https://sites.google.com/view/ertanturan/home)</p>  </ul>
+<ul> <p> I occasionally add some gists to [my gists page](https://gist.github.com/ertanturan)</p>  </ul>
 <ul> <p> Ask me about **Unity,C# and JS** (There's a few other guns under my belt like Python and GoLang )</p>  </ul>
 <ul> <p> E-mail me **ertanturan@outlook.com**</p>  </li>
 <ul> <p> Check my CV [here](https://drive.google.com/drive/folders/10Amg_xsEW2Lijmn5-peTmobgjwL6KXKO)</p>  </ul>
