@@ -20,9 +20,9 @@
 </p>
 
 
-<p align="left"><img align="left" src="https://github-readme-stats-lovat-seven-7jjjyk59ms.vercel.app/api?username=ertanturan&show_icons=true&locale=en" alt="ertanturan" /></p> 
-<br />
-<p align="left"><img align="center" src="https://github-readme-stats-lovat-seven-7jjjyk59ms.vercel.app/api/top-langs/?username=ertanturan&https://github-readme-stats.vercel.app/api/top-langs/?username=ertanturan&size_weight=0&count_weight=1&hide=HLSL,GLSL,ShaderLab,CSS,HTML,TeX,MATLAB,C" alt="ertanturan" /></p>
+<div align="left"><img align="left" src="https://github-readme-stats-lovat-seven-7jjjyk59ms.vercel.app/api?username=ertanturan&show_icons=true&locale=en" alt="ertanturan" /></div> 
+
+<div align="left"><img align="center" src="https://github-readme-stats-lovat-seven-7jjjyk59ms.vercel.app/api/top-langs/?username=ertanturan&https://github-readme-stats.vercel.app/api/top-langs/?username=ertanturan&size_weight=0&count_weight=1&hide=HLSL,GLSL,ShaderLab,CSS,HTML,TeX,MATLAB,C" alt="ertanturan" /></div>
   
 
 
