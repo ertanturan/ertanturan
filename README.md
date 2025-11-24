@@ -21,7 +21,7 @@
 
 
 <p align="left"><img align="left" src="https://github-readme-stats-lovat-seven-7jjjyk59ms.vercel.app/api?username=ertanturan&show_icons=true&locale=en" alt="ertanturan" /></p> 
-<br>
+<br />
 <p align="left"><img align="center" src="https://github-readme-stats-lovat-seven-7jjjyk59ms.vercel.app/api/top-langs/?username=ertanturan&https://github-readme-stats.vercel.app/api/top-langs/?username=ertanturan&size_weight=0&count_weight=1&hide=HLSL,GLSL,ShaderLab,CSS,HTML,TeX,MATLAB,C" alt="ertanturan" /></p>
   
 
@@ -29,7 +29,7 @@
 
 <!-- <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=ertanturan&" alt="ertanturan" /></p>-->
 
-<br><br><br><br><br><br><br><br><br>
+<br />
 <!-- 
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/ertanturan"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="ertanturan" /></a></p>
