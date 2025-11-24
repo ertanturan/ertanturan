@@ -3,15 +3,17 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=ertanturan&label=Profile%20views&color=0e75b6&style=flat" alt="ertanturan" /> </p>
 
--  My portfolio and CV are available at [https://sites.google.com/view/ertanturan/home](https://sites.google.com/view/ertanturan/home)
+<div align="center"> 
 
--  I occasionally add some gists to [https://gist.github.com/ertanturan](https://gist.github.com/ertanturan)
+<li> <p> My portfolio and CV are available at [https://sites.google.com/view/ertanturan/home](https://sites.google.com/view/ertanturan/home)</p>  </li>
+<li> <p> I occasionally add some gists to [https://gist.github.com/ertanturan](https://gist.github.com/ertanturan)</p>  </li>
+<li> <p> Ask me about **Unity,C# and JS** (There's a few other guns under my belt like Python and GoLang )</p>  </li>
+<li> <p> E-mail me **ertanturan@outlook.com**</p>  </li>
+<li> <p> Check my CV [here](https://drive.google.com/drive/folders/10Amg_xsEW2Lijmn5-peTmobgjwL6KXKO)</p>  </li>
 
--  Ask me about **Unity,C# and JS** (There's a few other guns under my belt like Python and GoLang )
 
--  E-mail me **ertanturan@outlook.com**
+</div>
 
--  Check my CV [here](https://drive.google.com/drive/folders/10Amg_xsEW2Lijmn5-peTmobgjwL6KXKO)
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
