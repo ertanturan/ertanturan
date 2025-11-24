@@ -19,14 +19,13 @@
   <a href="https://www.youtube.com/channel/UCoq_cjx01CCL5z2-Lhl7YVQ" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="oq_cjx01ccl5z2-lhl7yvq" height="30" width="40" /></a>
 </p>
 
-<li>
-
+<div style="display:flex;
+    flex-direction: column;">
   <p><img align="left" src="https://github-readme-stats-lovat-seven-7jjjyk59ms.vercel.app/api?username=ertanturan&show_icons=true&locale=en" alt="ertanturan" /></p> 
 
 <p><img align="center" src="https://github-readme-stats-lovat-seven-7jjjyk59ms.vercel.app/api/top-langs/?username=ertanturan&https://github-readme-stats.vercel.app/api/top-langs/?username=ertanturan&size_weight=0&count_weight=1&hide=HLSL,GLSL,ShaderLab,CSS,HTML,TeX,MATLAB,C" alt="ertanturan" /></p>
   
-</li>
-
+</div>
 
 
 
