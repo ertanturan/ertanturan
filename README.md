@@ -30,7 +30,7 @@
   </tr>
   <tr>
     <td align="center">
-      <img src="https://github-readme-stats-lovat-seven-7jjjyk59ms.vercel.app/api/top-langs/?username=ertanturan&size_weight=0&count_weight=1&hide=HLSL,GLSL,ShaderLab,CSS,HTML,TeX,MATLAB,C" alt="langs" />
+      <img src="https://github-readme-stats-lovat-seven-7jjjyk59ms.vercel.app/api/top-langs/?username=ertanturan&size_weight=0.2&count_weight=0.8&hide=HLSL,GLSL,ShaderLab,TeX,MATLAB,C,Objective-C,C%2B%2B,Objective-C%2B%2B,HTML,CSS" alt="langs" />
     </td>
   </tr>
 </table>
